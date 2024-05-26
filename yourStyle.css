@@ -34,7 +34,7 @@ body {
 }
 
 .calculator__display--bare {
-  /* display: none; */
+  display: none;
   background-color: #ffffff;
   text-align: center;
   vertical-align: middle;
